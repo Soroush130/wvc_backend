@@ -423,7 +423,7 @@ core/*/migrations/*
 accounts/migrations/*
 !accounts/migrations/__init__.py
 cameras/migrations/*
-!cameras/migrations/*
+!cameras/migrations/__init__.py
 states/migrations/*
 !states/migrations/__init__.py
 
