@@ -1,0 +1,53 @@
+[
+    {
+        "westLongitude": -75.784611,
+        "regionName": "Delaware",
+        "latitude": 39.576781,
+        "timeZone": "US/Eastern",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 10,
+        "priority": 1,
+        "taxRate": 0,
+        "northLatitude": 39.828616,
+        "eastLongitude": -75.4511,
+        "name": "New Castle",
+        "id": "DE_NC",
+        "southLatitude": 39.324946,
+        "longitude": -75.617855
+    },
+    {
+        "westLongitude": -75.649249,
+        "regionName": "Delaware",
+        "latitude": 39.100707,
+        "timeZone": "US/Eastern",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 10,
+        "priority": 2,
+        "taxRate": 0,
+        "northLatitude": 39.306505,
+        "eastLongitude": -75.427714,
+        "name": "Kent",
+        "id": "DE_KE",
+        "southLatitude": 38.89491,
+        "longitude": -75.538481
+    },
+    {
+        "westLongitude": -75.609041,
+        "regionName": "Delaware",
+        "latitude": 38.689156,
+        "timeZone": "US/Eastern",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 9,
+        "priority": 3,
+        "taxRate": 0,
+        "northLatitude": 38.926072,
+        "eastLongitude": -75.051941,
+        "name": "Sussex",
+        "id": "DE_SU",
+        "southLatitude": 38.452241,
+        "longitude": -75.330491
+    }
+]

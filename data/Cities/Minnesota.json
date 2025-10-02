@@ -1,0 +1,36 @@
+[
+    {
+        "westLongitude": -93.95138,
+        "regionName": "Minnesota",
+        "latitude": 44.97902,
+        "timeZone": "US/Central",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 9,
+        "priority": 1,
+        "taxRate": 0,
+        "northLatitude": 45.39152,
+        "eastLongitude": -92.721,
+        "name": "Minneapolis",
+        "id": "MN_MI",
+        "southLatitude": 44.60271,
+        "longitude": -93.26494
+    },
+    {
+        "westLongitude": -96.76819,
+        "regionName": "Minnesota",
+        "latitude": 45.85176,
+        "timeZone": "US/Central",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 6,
+        "priority": 2,
+        "taxRate": 0,
+        "northLatitude": 47.51906,
+        "eastLongitude": -92.08584,
+        "name": "Rural",
+        "id": "MN_RU",
+        "southLatitude": 43.87007,
+        "longitude": -94.614101
+    }
+]

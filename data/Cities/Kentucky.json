@@ -1,0 +1,19 @@
+[
+    {
+        "westLongitude": 0.0,
+        "regionName": "Kentucky",
+        "latitude": 38.025643,
+        "timeZone": "US/Eastern",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 11,
+        "priority": 1,
+        "taxRate": 0,
+        "northLatitude": 0.0,
+        "eastLongitude": 0.0,
+        "name": "Lexington",
+        "id": "KY_LEX",
+        "southLatitude": 0.0,
+        "longitude": -84.49187
+    }
+]

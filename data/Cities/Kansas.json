@@ -1,0 +1,53 @@
+[
+    {
+        "westLongitude": -97.4601,
+        "regionName": "Kansas",
+        "latitude": 37.68749,
+        "timeZone": "US/Central",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 11,
+        "priority": 1,
+        "taxRate": 0,
+        "northLatitude": 37.796729,
+        "eastLongitude": -97.158536,
+        "name": "Wichita",
+        "id": "KS_WI",
+        "southLatitude": 37.54424,
+        "longitude": -97.33558
+    },
+    {
+        "westLongitude": -101.055274,
+        "regionName": "Kansas",
+        "latitude": 38.5632,
+        "timeZone": "US/Central",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 6,
+        "priority": 2,
+        "taxRate": 0,
+        "northLatitude": 39.848664,
+        "eastLongitude": -94.620416,
+        "name": "Rural",
+        "id": "KS_RU",
+        "southLatitude": 36.998252,
+        "longitude": -98.07422
+    },
+    {
+        "westLongitude": -101.940694,
+        "regionName": "Kansas",
+        "latitude": 39.326198,
+        "timeZone": "US/Mountain",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 9,
+        "priority": 3,
+        "taxRate": 0,
+        "northLatitude": 39.330116,
+        "eastLongitude": -101.630502,
+        "name": "Rural MST",
+        "id": "KS_RU_MST",
+        "southLatitude": 39.328504,
+        "longitude": -101.73407
+    }
+]

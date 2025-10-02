@@ -1,0 +1,53 @@
+[
+    {
+        "westLongitude": -105.47114,
+        "regionName": "Colorado",
+        "latitude": 39.792813,
+        "timeZone": "US/Mountain",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 9,
+        "priority": 1,
+        "taxRate": 0,
+        "northLatitude": 40.08806,
+        "eastLongitude": -104.5266,
+        "name": "Denver",
+        "id": "CO_DE",
+        "southLatitude": 39.47211,
+        "longitude": -104.995346
+    },
+    {
+        "westLongitude": -105.06928,
+        "regionName": "Colorado",
+        "latitude": 38.831742,
+        "timeZone": "US/Mountain",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 10,
+        "priority": 2,
+        "taxRate": 0,
+        "northLatitude": 39.03845,
+        "eastLongitude": -104.68316,
+        "name": "Colorado Springs",
+        "id": "CO_CS",
+        "southLatitude": 38.61971,
+        "longitude": -104.82421
+    },
+    {
+        "westLongitude": -107.33413,
+        "regionName": "Colorado",
+        "latitude": 39.200328,
+        "timeZone": "US/Mountain",
+        "pricePerHour": 250,
+        "active": true,
+        "zoom": 6,
+        "priority": 3,
+        "taxRate": 0,
+        "northLatitude": 40.98893,
+        "eastLongitude": -102.25221,
+        "name": "Rural",
+        "id": "CO_RU",
+        "southLatitude": 37.66359,
+        "longitude": -104.931114
+    }
+]
